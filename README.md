@@ -1,4 +1,21 @@
-### Hi there 👋
+### Hi there,
+
+I am a programmer interested in machine learning, data science, and software engineering.
+
+## Current Projects:
+- Custom MNIST: Create and train a neural network without using a machine learning framework, such as TensorFlow or Pytorch. This will require me to manually implement backpropagation.
+
+## Completed Projects:
+- [US Medical Insurance Costs](https://github.com/nelsen129/us-medical-insurance-costs): A series of regressions on several variables, such as age and BMI, and the resulting insurance costs. I performed several simple regressions and implemented gradient descent for multiple regressions.  
+![jpg](images/insurance_age_cost.jpg)
+![jpg](images/insurance_multiple_cost.jpg)
+
+## Currently Learning:
+- Codecademy's Data Science Career Path
+
+
+You can reach me at pnelsen129@gmail.com
+
 
 <!--
 **nelsen129/nelsen129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
